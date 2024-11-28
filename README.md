@@ -29,7 +29,7 @@ Slicers was created to enhance users interactions and ensure all visualisation d
    
 2.  ##	Power BI:
  - To create interactive visualisation
- - For creation of Dashboard
+ - For creation of Dashboard [view here](https://ibb.co/F5b5VCG)
 
 
  

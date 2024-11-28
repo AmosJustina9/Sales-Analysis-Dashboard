@@ -23,8 +23,13 @@ i summarized the total profit by sum order and shipments profit on the datasets.
 Slicers was created to enhance users interactions and ensure all visualisation display accurately.
 
 ## Tools Used:
--	Python: For data preprocessing
--	Power BI: To create visualisation on dashboard
+1.  ##	Python:
+-   For data preprocessing
+-   For data transformation
+   
+2.  ##	Power BI:
+ - To create interactive visualisation
+ - For creation of Dashboard
 
 
  
@@ -33,4 +38,8 @@ In calculating the dataset on the Order and Shipments on Power Bi, The TOTAL PRO
 
 ### Conclusion:
 On the dashboard, all visualisation display the accurate data of the datasets. Including the key findings and insights. The dashboard showcases its features and how users can interact on the valuable information. 
+
+---
+### Data Visualisation
+<img width="505" alt="sales screenshot bi" src="https://github.com/user-attachments/assets/5682a391-5b7c-4ade-a705-e4a2cb634e1c">
 

@@ -32,7 +32,7 @@ Slicers was created to enhance users interactions and ensure all visualisation d
  - For creation of Dashboard [view here](https://ibb.co/F5b5VCG)
 
 
- 
+--- 
 ### Analysis Methodology: 
 In calculating the dataset on the Order and Shipments on Power Bi, The TOTAL PROFIT 4,000,000 was discovered on the sales transactions of 6,000,000 TOTAL SALES.  There are three different datasets; Fulfillment, inventory and order and shipments datasets. it was discovered that in 2015 and 2017, the country that makes the hightest sales from the shipments company is france, which the sales by product category is fishing. 
 

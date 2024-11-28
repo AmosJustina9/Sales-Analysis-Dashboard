@@ -39,7 +39,5 @@ In calculating the dataset on the Order and Shipments on Power Bi, The TOTAL PRO
 ### Conclusion:
 On the dashboard, all visualisation display the accurate data of the datasets. Including the key findings and insights. The dashboard showcases its features and how users can interact on the valuable information. 
 
----
-### Data Visualisation
-<img width="505" alt="sales screenshot bi" src="https://github.com/user-attachments/assets/5682a391-5b7c-4ade-a705-e4a2cb634e1c">
+
 
